@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.png
+
+# Node
+node_modules/
+frontend-jsx/node_modules/
+
+# Vite build
+frontend-jsx/dist/
+
+# Mac
+.DS_Store
